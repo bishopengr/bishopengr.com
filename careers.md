@@ -9,22 +9,48 @@ Bishop Engineering is a local Civil Engineering and Surveying firm in the wester
 
 ---
 
-**_Project Engineer_**
+## Job Openings
 
-Basic Qualifications:
+{% if site.jobs.size == 0 %}
 
-- BS in Civil Engineering from an accredited university
-- Minimum of 3-4 years of design experience in commercial land development civil engineering
-- Demonstrates great communication skills with clients, colleagues and fellow employees/employer
-- Demonstrates team cooperation and leadership qualities
-- Professional Engineering License or passage of Fundamentals of Engineering Exam
-- Understanding of drainage calculations, detention calculations. hydraulic grade lines and both the rational method and SCS TR-55 a plus.
-- Proficient in AutoCAD Civil 3D a must.
+There are currently no openings. For inquiries please contact [jabishop@bishopengr.com](mailto:jabishop@bishopengr.com).
+{% endif %}
 
-As a Project Engineer at Bishop Engineering, you will work closely under project managers to produce commercial site plans in AutoCAD Civil 3D. Your duties will include the design of a site’s utilities, grading, ADA accessibility and storm water calculations.
+{% for job in site.jobs %}
 
-Please send resume to [jabishop@bishopengr.com](mailto:jabishop@bishopengr.com "Mail to jabishop@bishopengr.com").
+<h3>{{job.title}}</h3>
+{{job.content | markdownify}}
 
-**_Company Description_**
+<script type="application/ld+json"> {
+  "@context" : "http://schema.org/",
+  "@type" : "JobPosting",
+  "title" : "{{job.title}}",
+  "description" : "{{job.description | markdownify}}",
+  "datePosted" : "{{job.datePosted}}",
+  "validThrough" : "{{job.validThrough}}",
+  "employmentType" : "{{job.employmentType}}",
+  "hiringOrganization" : {
+    "@type" : "Organization",
+    "name" : "{{site.title}}",
+    "sameAs" : "{{site.url}}",
+    "logo" : "{{site.url}}/assets/img/bishoplogo_large.jpg"
+  },
+  "jobLocation": {
+  "@type": "Place",
+    "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{site.streetAddress}}",
+    "addressLocality": "{{site.addressLocality}}",
+    "addressRegion": "{{site.addressRegion}}",
+    "postalCode": "{{site.postalCode}}",
+    "addressCountry": "US"
+    }
+  },
+}
+</script>
+
+{% endfor %}
+
+## Company Description
 
 Bishop Engineering is a growing Des Moines civil engineering firm specializing in private land development and land surveying. Our typical projects include suburban commercial site plans and residential subdivisions located all across Iowa and stretching into surrounding states. Bishop Engineering is comprised of a vibrant group of technical employees that focus on doing high quality work and meeting our client’s needs and schedules. Find out more about Bishop Engineering at [bishopengr.com](http://www.bishopengr.com "Bishop Engineering")

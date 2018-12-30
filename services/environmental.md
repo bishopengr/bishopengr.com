@@ -5,7 +5,7 @@ permalink: /services/environmental/
 
 ![](/assets/img/environmental.jpg)
 
-**Landscape Architecture**
+## Landscape Architecture
 
 At Bishop Engineering we aim for simplicity and classic design in our landscape  architecture services. Our landscape projects are designed with an emphasis on natural  settings that fit the distinctive features of your site rather than overlooking  or trying to disguise them. We believe it is important to use native plants and  grasses when completing your project to ensure we leave you with a beautiful, sustainable,  and easy-to-care-for result.
 

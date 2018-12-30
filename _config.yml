@@ -13,34 +13,31 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Bishop Engineering
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  Bishop Engineering is a growing Des Moines civil engineering 
+  firm specializing in private land development and land surveying.
+streetAddress: 3501 104th St.
+addressLocality: Des Moines
+addressRegion: IA
+postalCode: 50322-3825
+url: "https://www.bishopengr.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+
+collections:
+  - jobs
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - _jobs/example.md

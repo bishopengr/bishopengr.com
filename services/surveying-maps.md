@@ -5,7 +5,7 @@ permalink: /services/surveying-maps/
 
 ![](/assets/img/survey.jpg?w=788&h=160 "survey")
 
-**Boundary Surveys**
+## Boundary Surveys
 
 Bishop Engineering performs boundary surveys in accordance with the Administrative Rules Governing Land Surveying in the State of Iowa. First, we research the record for applicable deeds of the property and its adjoiners. Using this information, we also search our own extensive data base for existing surveys of the area to be examined. The professional land surveyor assigned to the job will then prepare a contract detailing the estimated cost and work schedule for the project before field work begins.
 
@@ -13,7 +13,7 @@ Our field technicians will search for monuments pertaining to the boundary and i
 
 Once the plat of survey is approved and acknowledged by the governing body, Bishop Engineering will record the plat with the county in which the survey lies. Our client will receive three copies of the recorded survey plat. We will keep the survey plat on file in the company archives and additional copies will be available to the client upon request.
 
-**Boundary Surveys**
+## Boundary Surveys
 
 An American Land Title Association (ALTA) survey is usually requested for large commercial transactions where the mortgage institution requires a survey of the property in which they will be holding interest. It is the most in-depth type of survey we perform.
 
