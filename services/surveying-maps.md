@@ -1,5 +1,6 @@
 ---
 title: Surveying &amp; Maps
+permalink: /services/surveying-maps/
 ---
 
 ![](/assets/img/survey.jpg?w=788&h=160 "survey")

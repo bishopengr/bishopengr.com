@@ -1,5 +1,6 @@
 ---
 title: Land Development
+permalink: /services/land-development/
 ---
 
 ![](/assets/img/land_dev.jpg)

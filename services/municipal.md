@@ -1,5 +1,6 @@
 ---
 title: Municipal
+permalink: /services/municipal/
 ---
 
 ![](/assets/img/municipal.jpg)

@@ -1,5 +1,6 @@
 ---
 title: Careers
+permalink: /careers/
 ---
 
 ![](/assets/img/careers.jpg)

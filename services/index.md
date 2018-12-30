@@ -1,5 +1,6 @@
 ---
 title: Services
+permalink: /services/
 ---
 
 ![](/assets/img/reputation.jpg)

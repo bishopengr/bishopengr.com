@@ -1,5 +1,6 @@
 ---
 title: History
+permalink: /history/
 ---
 
 ![](/assets/img/history.jpg)

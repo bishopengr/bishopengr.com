@@ -1,5 +1,6 @@
 ---
 title: Environmental
+permalink: /services/environmental/
 ---
 
 ![](/assets/img/environmental.jpg)

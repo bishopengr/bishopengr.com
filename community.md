@@ -1,5 +1,6 @@
 ---
 title: Community
+permalink: /community/
 ---
 
 ![](/assets/img/community.jpg)
