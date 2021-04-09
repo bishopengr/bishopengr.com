@@ -13,7 +13,7 @@ Bishop Engineering is a local Civil Engineering and Surveying firm in the wester
 
 {% if site.jobs.size == 0 %}
 
-There are currently no openings. For inquiries please contact [jabishop@bishopengr.com](mailto:jabishop@bishopengr.com).
+There are currently no openings. For inquiries please contact [khallagin@bishopengr.com](mailto:jabishop@bishopengr.com).
 {% endif %}
 
 {% for job in site.jobs %}
