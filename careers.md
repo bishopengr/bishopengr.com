@@ -10,12 +10,13 @@ Bishop Engineering is a local Civil Engineering and Surveying firm in the wester
 ---
 
 # Job Openings
-
+---
 {% if site.jobs.size == 0 %}
 
 
 
 ## CIVIL 3D CAD TECH
+---
 Bishop Engineering is seeking an experienced engineer technician with demonstrated CAD skills to join our civil engineering and land surveying firm. The right candidate will join an experienced team of engineer technicians, working in support of our Professional Engineers, Survey Department, and Project Managers.
 
 ### Responsibilities:
@@ -32,6 +33,7 @@ Qualified candidates must have three to five years’ experience as an engineeri
 
 
 ## Survey Instrument Person – Fulltime
+---
 
 Experienced Survey Instrument Person for construction layout and other duties related to Engineering and Land Surveying.  Duties would include: Construction Staking, Topographic Survey and Utility Mapping, Alta Land Title Surveys, Boundary and Retracement Surveys, and As-Built Surveys
 ### Required Qualifications
@@ -50,6 +52,7 @@ Experienced Survey Instrument Person for construction layout and other duties re
 
 
 ## Survey Party Chief – Fulltime
+---
 
 Experienced Survey Party Chief for construction layout and other duties related to Engineering and Land Surveying.  Duties would include: Construction Staking, Topographic Survey and Utility Mapping, Alta Land Title Surveys, Boundary and Retracement Surveys, and As-Built Surveys
 ### Required Qualifications
@@ -72,6 +75,7 @@ Experienced Survey Party Chief for construction layout and other duties related 
 
 
 ## SENIOR ENGINEER
+---
 
 Job Title:  Civil Engineer II-IV
 Department:  Engineering
@@ -139,7 +143,7 @@ Minimum Qualifications (knowledge, skills and abilities):
 -	The ability to continuously grow and expand knowledge and understanding of the Civil Engineering business is essential to the job as standards, drafting programs, and construction methods and materials also change frequently.  
 -	Ability to identify industry trends and determine where company capabilities can be marketed to existing and potential clients.
 
-
+---
 
 
 
