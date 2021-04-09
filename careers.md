@@ -36,17 +36,17 @@ Qualified candidates must have three to five years’ experience as an engineeri
 ---
 
 Experienced Survey Instrument Person for construction layout and other duties related to Engineering and Land Surveying.  Duties would include: Construction Staking, Topographic Survey and Utility Mapping, Alta Land Title Surveys, Boundary and Retracement Surveys, and As-Built Surveys
-### Required Qualifications
-•	Minimum of 2 years of experience in Construction Layout.
-•	Must have demonstrated abilities with functioning in one and two person survey crews.
-•	Have a strong mathematic background and perform mathematical calculations related construction and surveying.
-•	Have a working knowledge and ability to read construction plans and specifications.
-•	Prepare and maintain records, logs, field books and other related documentation.
-•	Ability to carry/lift a minimum of 50 lbs. and traverse over uneven terrain and active construction sites, undeveloped ground and wooded sections.
-•	Knowledge of operating and maintaining survey equipment including Trimble GPS, Trimble Robotic Total Station, Trimble Base Stations and TSC 7 Data Collectors with Trimble Access Software.
-•	Have excellent communication skills and use of appropriate social skills to interact with coworkers, supervisors and the general public to sufficiently exchange or convey information and to receive work direction.
-•	Reliable, regular and punctual attendance a must.
-•	Ability to work 50-60 hours per week during Construction Season.
+### Required Qualifications<br/>
+•	Minimum of 2 years of experience in Construction Layout.<br/>
+•	Must have demonstrated abilities with functioning in one and two person survey crews.<br/>
+•	Have a strong mathematic background and perform mathematical calculations related construction and surveying.<br/>
+•	Have a working knowledge and ability to read construction plans and specifications.<br/>
+•	Prepare and maintain records, logs, field books and other related documentation.<br/>
+•	Ability to carry/lift a minimum of 50 lbs. and traverse over uneven terrain and active construction sites, undeveloped ground and wooded sections.<br/>
+•	Knowledge of operating and maintaining survey equipment including Trimble GPS, Trimble Robotic Total Station, Trimble Base Stations and TSC 7 Data Collectors with Trimble Access Software.<br/>
+•	Have excellent communication skills and use of appropriate social skills to interact with coworkers, supervisors and the general public to sufficiently exchange or convey information and to receive work direction.<br/>
+•	Reliable, regular and punctual attendance a must.<br/>
+•	Ability to work 50-60 hours per week during Construction Season.<br/>
 
 
 
@@ -56,20 +56,20 @@ Experienced Survey Instrument Person for construction layout and other duties re
 
 Experienced Survey Party Chief for construction layout and other duties related to Engineering and Land Surveying.  Duties would include: Construction Staking, Topographic Survey and Utility Mapping, Alta Land Title Surveys, Boundary and Retracement Surveys, and As-Built Surveys
 ### Required Qualifications
-•	Minimum of 4 years of experience in Construction Layout.
-•	Must have demonstrated abilities with functioning in one and two person survey crews.
-•	Have a strong mathematic background and perform mathematical calculations related construction and surveying.
-•	Have a working knowledge and ability to read construction plans and specifications.
-•	Prepare and maintain records, logs, field books and other related documentation.
-•	Ability to carry/lift a minimum of 50 lbs. and traverse over uneven terrain, up and down hills, active construction sites, undeveloped ground and wooded sections.
-•	Ability to dig up Property Corners and cut line through the woods on Boundary Surveys.
-•	Ability to pound, Property Corners to be set, in the ground.  In the winter the ground will be frozen.
-•	Ability to pound wood hubs in the ground on Construction Surveys and Ability to climb down into a trench where Utilities are being built to “as-built” the Utility Line.
-•	Ability to pull and move 50 lb. Manhole Covers.  Sometimes up to 20-30 a day.
-•	Knowledge of operating and maintaining survey equipment including Trimble GPS, Trimble Robotic Total Station, Trimble Base Stations and TSC 7 Data Collectors with Trimble Access Software.
-•	Have excellent communication skills and use of appropriate social skills to interact with coworkers, supervisors and the general public to sufficiently exchange or convey information and to receive work direction.
-•	Reliable, regular and punctual attendance a must.
-•	Ability to work 50-60 hours per week during Construction Season.
+•	Minimum of 4 years of experience in Construction Layout.<br/>
+•	Must have demonstrated abilities with functioning in one and two person survey crews.<br/>
+•	Have a strong mathematic background and perform mathematical calculations related construction and surveying.<br/>
+•	Have a working knowledge and ability to read construction plans and specifications.<br/>
+•	Prepare and maintain records, logs, field books and other related documentation.<br/>
+•	Ability to carry/lift a minimum of 50 lbs. and traverse over uneven terrain, up and down hills, active construction sites, undeveloped ground and wooded sections.<br/>
+•	Ability to dig up Property Corners and cut line through the woods on Boundary Surveys.<br/>
+•	Ability to pound, Property Corners to be set, in the ground.  In the winter the ground will be frozen.<br/>
+•	Ability to pound wood hubs in the ground on Construction Surveys and Ability to climb down into a trench where Utilities are being built to “as-built” the Utility Line.<br/>
+•	Ability to pull and move 50 lb. Manhole Covers.  Sometimes up to 20-30 a day.<br/>
+•	Knowledge of operating and maintaining survey equipment including Trimble GPS, Trimble Robotic Total Station, Trimble Base Stations and TSC 7 Data Collectors with Trimble Access Software.<br/>
+•	Have excellent communication skills and use of appropriate social skills to interact with coworkers, supervisors and the general public to sufficiently exchange or convey information and to receive work direction.<br/>
+•	Reliable, regular and punctual attendance a must.<br/>
+•	Ability to work 50-60 hours per week during Construction Season.<br/>
 
 
 
