@@ -5,7 +5,7 @@ permalink: /careers/
 
 ![](/assets/img/careers.jpg)
 
-Bishop Engineering is a local Civil Engineering and Surveying firm in the western suburbs of Des Moines. We are currently in our 48th year of operation and continue to grow and expand our areas of work each and every year. We specialize in land development including both subdivision design and commercial properties. We also have a large survey department to both support the engineering side of the business and perform several different types of property surveys including ALTA and Site Surveys.
+Bishop Engineering is a local Civil Engineering and Surveying firm in the western suburbs of Des Moines. We are currently in our 48th year of operation and continue to grow and expand our areas of work each and every year. We specialize in land development including both subdivision design and commercial properties. We also have a large survey department to both support the engineering side of the business and perform several different types of property surveys including ALTA and Site Surveys. For inquiries please email your resume to [khallagin@bishopengr.com](mailto:khallagin@bishopengr.com).
 
 ---
 
@@ -134,7 +134,7 @@ Minimum Qualifications (knowledge, skills and abilities):
 
 
 
-For inquiries please contact [khallagin@bishopengr.com](mailto:jabishop@bishopengr.com).
+For inquiries please contact [khallagin@bishopengr.com](mailto:khallagin@bishopengr.com).
 {% endif %}
 
 {% for job in site.jobs %}
