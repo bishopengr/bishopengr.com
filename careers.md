@@ -10,7 +10,8 @@ Bishop Engineering is a local Civil Engineering and Surveying firm in the wester
 #### For inquiries please email your resume to [khallagin@bishopengr.com](mailto:khallagin@bishopengr.com).
 
 ---
-<p align="center"> # Job Openings: </p>
+# Job Openings: 
+
 ---
 {% if site.jobs.size == 0 %}
 
