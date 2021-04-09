@@ -78,11 +78,11 @@ Experienced Survey Party Chief for construction layout and other duties related 
 ## SENIOR ENGINEER
 ---
 
-### Job Title:  Civil Engineer II-IV
+### Job Title:  Civil Engineer II-IV<br/>
 
-Department:  Engineering
-Reports to:  PRINCIPAL(S)
-Location: Urbandale, Iowa
+Department:  Engineering<br/>
+Reports to:  PRINCIPAL(S)<br/>
+Location: Urbandale, Iowa<br/>
 
 About Bishop Engineering:  Established in 1959, Bishop Engineering has been located in the Des Moines Metro area since its inception.  We specialize in land development and land surveying, providing engineering and surveying solutions to both private and public clients.  Recognized as a leader in the providing these services, we continue to gain new clients while being dedicated to our long-standing relationships.  
 
