@@ -9,14 +9,14 @@ Bishop Engineering is a local Civil Engineering and Surveying firm in the wester
 
 ---
 
-## Job Openings
+# Job Openings
 
 {% if site.jobs.size == 0 %}
 
 ## CIVIL 3D CAD TECH
 Bishop Engineering is seeking an experienced engineer technician with demonstrated CAD skills to join our civil engineering and land surveying firm. The right candidate will join an experienced team of engineer technicians, working in support of our Professional Engineers, Survey Department, and Project Managers.
 
-Responsibilities:
+### Responsibilities:
 
 Assist civil engineers with plan preparation, evaluation of field conditions, design changes and reports.
 Analyze and help create topographical surveys, municipal project plans, subdivision construction plans and water management projects.
@@ -31,7 +31,7 @@ Qualified candidates must have three to five years’ experience as an engineeri
 ## Survey Instrument Person – Fulltime
 
 Experienced Survey Instrument Person for construction layout and other duties related to Engineering and Land Surveying.  Duties would include: Construction Staking, Topographic Survey and Utility Mapping, Alta Land Title Surveys, Boundary and Retracement Surveys, and As-Built Surveys
-# Required Qualifications
+### Required Qualifications
 •	Minimum of 2 years of experience in Construction Layout.
 •	Must have demonstrated abilities with functioning in one and two person survey crews.
 •	Have a strong mathematic background and perform mathematical calculations related construction and surveying.
@@ -46,7 +46,7 @@ Experienced Survey Instrument Person for construction layout and other duties re
 ## Survey Party Chief – Fulltime
 
 Experienced Survey Party Chief for construction layout and other duties related to Engineering and Land Surveying.  Duties would include: Construction Staking, Topographic Survey and Utility Mapping, Alta Land Title Surveys, Boundary and Retracement Surveys, and As-Built Surveys
-# Required Qualifications
+### Required Qualifications
 •	Minimum of 4 years of experience in Construction Layout.
 •	Must have demonstrated abilities with functioning in one and two person survey crews.
 •	Have a strong mathematic background and perform mathematical calculations related construction and surveying.
