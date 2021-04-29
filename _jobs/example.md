@@ -20,4 +20,4 @@ Job Requirements:
 - Understanding of drainage calculations, detention calculations. hydraulic grade lines and both the rational method and SCS TR-55 a plus.
 - Proficient in AutoCAD Civil 3D a must.
 
-Please send resume to [jabishop@bishopengr.com](mailto:jabishop@bishopengr.com).
+Please send resume to [khallagin@bishopengr.com](mailto:khallagin@bishopengr.com).
